@@ -1,0 +1,164 @@
+{
+    "routes": 0,
+    "NoteVelocity": 0.0,
+    "MusicName": "Mortals",
+    "Level": "Normal",
+    "IntLevel": 123,
+    "Chapter": 2,
+    "BPM": 0.0,
+    "RoutingIndexFirst": [],
+    "RoutingIndexSecond": [],
+    "ActionIndexFirst": [],
+    "ActionIndexSecond": [],
+    "NoteList": [
+        {
+            "NewNoteList": [
+                {
+                    "NoteTime": 10,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -156500
+                    }
+                },
+                {
+                    "NoteTime": 30,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -156516
+                    }
+                },
+                {
+                    "NoteTime": 43,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -156468
+                    }
+                },
+                {
+                    "NoteTime": 50,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -156756
+                    }
+                },
+                {
+                    "NoteTime": 69,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -157012
+                    }
+                },
+                {
+                    "NoteTime": 83,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -156724
+                    }
+                },
+                {
+                    "NoteTime": 89,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -156484
+                    }
+                },
+                {
+                    "NoteTime": 108,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -156740
+                    }
+                },
+                {
+                    "NoteTime": 113,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -156980
+                    }
+                },
+                {
+                    "NoteTime": 128,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -156772
+                    }
+                },
+                {
+                    "NoteTime": 143,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -157236
+                    }
+                },
+                {
+                    "NoteTime": 147,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -157268
+                    }
+                },
+                {
+                    "NoteTime": 167,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -157028
+                    }
+                },
+                {
+                    "NoteTime": 173,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -156996
+                    }
+                },
+                {
+                    "NoteTime": 183,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -157252
+                    }
+                },
+                {
+                    "NoteTime": 193,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -157492
+                    }
+                }
+            ]
+        },
+        {
+            "NewNoteList": []
+        },
+        {
+            "NewNoteList": []
+        }
+    ],
+    "ActionList": [
+        {
+            "MouseNoteList": []
+        },
+        {
+            "MouseNoteList": []
+        },
+        {
+            "MouseNoteList": []
+        }
+    ]
+}

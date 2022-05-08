@@ -1,0 +1,22 @@
+{
+    "ID": "2019_04_13_22_39_34",
+    "MusicName": "Why We lose",
+    "Level": "Normal",
+    "LevelInt": 7,
+    "PerfectHit": 362,
+    "GoodHit": 15,
+    "MissHit": 1,
+    "WholeCombo": 378,
+    "LongestCombo": 206,
+    "LongestComboPer": 54.0,
+    "WholeAction": 0,
+    "Action": 0,
+    "SwitchSum": 0,
+    "SwitchedIndex": [],
+    "Accuracy": 94.1534194946289,
+    "BaseScore": 105446,
+    "Multiplier": 1.0,
+    "TotalScore": 105446,
+    "ScoreRank": 1,
+    "ClearTime": "2019_04_13_22_39_18"
+}

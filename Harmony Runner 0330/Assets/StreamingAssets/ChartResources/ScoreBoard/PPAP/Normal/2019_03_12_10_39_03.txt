@@ -1,0 +1,22 @@
+{
+    "ID": "SKY-PC",
+    "MusicName": "PPAP",
+    "Level": "Normal",
+    "LevelInt": 9,
+    "PerfectHit": 74,
+    "GoodHit": 41,
+    "MissHit": 18,
+    "WholeCombo": 133,
+    "LongestCombo": 57,
+    "LongestComboPer": 42.0,
+    "WholeAction": 0,
+    "Action": 0,
+    "SwitchSum": 0,
+    "SwitchedIndex": [],
+    "Accuracy": 71.42857360839844,
+    "BaseScore": 16887,
+    "Multiplier": 1.149999976158142,
+    "TotalScore": 19420,
+    "ScoreRank": 3,
+    "ClearTime": "2019_03_12_10_39_03"
+}

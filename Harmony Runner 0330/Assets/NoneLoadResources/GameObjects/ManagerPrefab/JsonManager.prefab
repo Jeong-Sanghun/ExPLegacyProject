@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1797157359569176}
+  m_IsPrefabParent: 1
+--- !u!1 &1797157359569176
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4314708511036964}
+  - component: {fileID: 114538580129722826}
+  m_Layer: 0
+  m_Name: JsonManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &4314708511036964
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1797157359569176}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -17.083, y: -1.637, z: -10.05655}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114538580129722826
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1797157359569176}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c604c8115d405749acfae1365628867, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  passScript: {fileID: 0}
+  soundManager: {fileID: 0}
+  NumberLine: {fileID: 0}
+  PlayerGrid: {fileID: 0}
+  UpArrowObject:
+  - {fileID: 1445032950282240, guid: aa7dad7c01506bc4281a607fd1db3d83, type: 2}
+  - {fileID: 1004194920490184, guid: b5821dc91873aa241ab2b5e93ca8d540, type: 2}
+  - {fileID: 1445032950282240, guid: aa7dad7c01506bc4281a607fd1db3d83, type: 2}
+  UpLongArrowObject:
+  - {fileID: 1178738635646122, guid: d022be269035fc14f90ad3e794c39a4e, type: 2}
+  - {fileID: 1639685283197682, guid: 59ead935cf8522548a49ac7d5c14ae97, type: 2}
+  - {fileID: 1178738635646122, guid: d022be269035fc14f90ad3e794c39a4e, type: 2}
+  LeftArrowObject:
+  - {fileID: 1610076757974522, guid: c9a37f695a9fba7408d989890a17d47d, type: 2}
+  - {fileID: 1653814976182712, guid: cecb109132ff07a42aaf41f07dad65ad, type: 2}
+  - {fileID: 1610076757974522, guid: c9a37f695a9fba7408d989890a17d47d, type: 2}
+  LeftLongArrowObject:
+  - {fileID: 1631759318673326, guid: a8f5ed45499fc4240bebbd2eda1b3e35, type: 2}
+  - {fileID: 1145980523840860, guid: fce2a5842fd4b944797686bdb6761bcb, type: 2}
+  - {fileID: 1631759318673326, guid: a8f5ed45499fc4240bebbd2eda1b3e35, type: 2}
+  RightArrowObject:
+  - {fileID: 1537049288593502, guid: 118f258caf3112e42b7b5661952142a5, type: 2}
+  - {fileID: 1293341818985124, guid: 1d9a0e540e6cb6149a6e2c940f80fd28, type: 2}
+  - {fileID: 1537049288593502, guid: 118f258caf3112e42b7b5661952142a5, type: 2}
+  RightLongArrowObject:
+  - {fileID: 1897694196643530, guid: 07055320118b39d4681fa9aa8bbb0490, type: 2}
+  - {fileID: 1914757317551486, guid: 0f4f3515b6d695145bc17b0d6bd3d2f1, type: 2}
+  - {fileID: 1897694196643530, guid: 07055320118b39d4681fa9aa8bbb0490, type: 2}
+  DownArrowObject:
+  - {fileID: 1039392411789672, guid: 573ee0f8c36fad6489ffcda9480f2a21, type: 2}
+  - {fileID: 1278275828668604, guid: 2409624fabb65da4891a84f0f70a0af8, type: 2}
+  - {fileID: 1039392411789672, guid: 573ee0f8c36fad6489ffcda9480f2a21, type: 2}
+  DownLongArrowObject:
+  - {fileID: 1544855442112840, guid: 0ef3798333182684ab4207fc625913d9, type: 2}
+  - {fileID: 1748860298247836, guid: 07211feb72782f4488219836e223bf48, type: 2}
+  - {fileID: 1544855442112840, guid: 0ef3798333182684ab4207fc625913d9, type: 2}
+  ActionNote: {fileID: 1469418428212512, guid: c87b7f11952c4c44ba52163dda9a0655, type: 2}
+  YellowLine: {fileID: 1572218043065310, guid: 9c313781465f94741b1465b6f2c9dd1a, type: 2}
+  RouteRecall: {fileID: 1985971250157532, guid: 7fc5964fd8127f840bff2f589ade9211,
+    type: 2}
+  UpArrowObjectPool: []
+  UpLongArrowObjectPool: []
+  LeftArrowObjectPool: []
+  LeftLongArrowObjectPool: []
+  RightArrowObjectPool: []
+  RightLongArrowObjectPool: []
+  DownArrowObjectPool: []
+  DownLongArrowObjectPool: []
+  ActionNotePool: []
+  RouteNotePool: []
+  RecallNotePool: []
+  NoteTransformList: []
+  ActiveGameNoteList: []
+  BPM: 0
+  BeatHelper: 1
+  EditStartBool: 0
+  myNotes:
+    routes: 0
+    NoteVelocity: 0
+    MusicName: 
+    Level: 
+    IntLevel: 0
+    Chapter: 0
+    BPM: 0
+    RoutingIndexFirst: 
+    RoutingIndexSecond: 
+    ActionIndexFirst: 
+    ActionIndexSecond: 
+    NoteList: []
+    ActionList: []
+  rhythmTool: {fileID: 0}
+  Length: 9
+  mouseJson: {fileID: 0}
+  uiManager: {fileID: 0}
+  OneBeatLine: {fileID: 1286828184497844, guid: 1ce29144eccf88c44b791fdbd872b63f,
+    type: 2}
+  EditorGrid: {fileID: 0}
+  RouteBackground:
+  - {fileID: 0}
+  - {fileID: 0}
+  Offset: 3
+  Scale: 0.5
+  NowTimeText: {fileID: 0}
+  IntLevel: 10
+  Chapter: 1
+  NowRoute: 0

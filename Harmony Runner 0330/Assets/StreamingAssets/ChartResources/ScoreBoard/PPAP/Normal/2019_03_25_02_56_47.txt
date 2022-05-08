@@ -1,0 +1,22 @@
+{
+    "ID": "Hi",
+    "MusicName": "PPAP",
+    "Level": "Normal",
+    "LevelInt": 9,
+    "PerfectHit": 119,
+    "GoodHit": 12,
+    "MissHit": 2,
+    "WholeCombo": 133,
+    "LongestCombo": 64,
+    "LongestComboPer": 48.0,
+    "WholeAction": 0,
+    "Action": 0,
+    "SwitchSum": 0,
+    "SwitchedIndex": [],
+    "Accuracy": 91.95490264892578,
+    "BaseScore": 28141,
+    "Multiplier": 1.0,
+    "TotalScore": 28141,
+    "ScoreRank": 1,
+    "ClearTime": "2019_03_25_02_56_47"
+}

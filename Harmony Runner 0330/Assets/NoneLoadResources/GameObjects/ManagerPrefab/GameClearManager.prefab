@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1450674708397156}
+  m_IsPrefabParent: 1
+--- !u!1 &1450674708397156
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4626826192898938}
+  - component: {fileID: 114435960403219172}
+  m_Layer: 0
+  m_Name: GameClearManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4626826192898938
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1450674708397156}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 960, y: 540, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114435960403219172
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1450674708397156}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 327becb9a359c8c45a2988b0a547fe17, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreBoard:
+    ID: 
+    MusicName: 
+    Level: 
+    LevelInt: 0
+    PerfectHit: 0
+    GoodHit: 0
+    MissHit: 0
+    WholeCombo: 0
+    LongestCombo: 0
+    LongestComboPer: 0
+    WholeAction: 0
+    Action: 0
+    SwitchSum: 0
+    SwitchedIndex: 
+    Accuracy: 0
+    BaseScore: 0
+    Multiplier: 1
+    TotalScore: 0
+    ScoreRank: 0
+  MusicName: {fileID: 0}
+  Level: {fileID: 0}
+  NoteHit: {fileID: 0}
+  WholeNoteHit: {fileID: 0}
+  Perfect: {fileID: 0}
+  Good: {fileID: 0}
+  Miss: {fileID: 0}
+  LCombo: {fileID: 0}
+  LComboPer: {fileID: 0}
+  Action: {fileID: 0}
+  WholeAction: {fileID: 0}
+  SwitchList: []
+  Switch: {fileID: 1117946119979134, guid: 06aa002f4d7307a4fb759b52ec4a75ec, type: 2}
+  SwitchParents: {fileID: 0}
+  Accuracy: {fileID: 0}
+  BaseScore: {fileID: 0}
+  Multiplier: {fileID: 0}
+  TotalScore: {fileID: 0}
+  Emblem: {fileID: 0}
+  BaseBG: {fileID: 0}
+  RankBG: {fileID: 0}
+  AlbumArt: {fileID: 0}
+  Buttons: {fileID: 0}
+  EmblemSprites:
+  - {fileID: 21300000, guid: 4dcfbe8308f04454aa0d0f81b2fb600d, type: 3}
+  - {fileID: 21300000, guid: 87621e231d11a494296899c7e12646c9, type: 3}
+  - {fileID: 21300000, guid: 95483efc2f4a23e46bdac792bf2fbac9, type: 3}
+  - {fileID: 21300000, guid: a0af8adf9433442498e40503a0222835, type: 3}
+  - {fileID: 21300000, guid: 17959006c14ed7147927eea5c5af2824, type: 3}
+  - {fileID: 21300000, guid: 2350cfc8dc056ef49884c67197c9cffe, type: 3}
+  BaseSprite:
+  - {fileID: 21300000, guid: 388f1e3e014135a41b36cf1f073fc9d1, type: 3}
+  - {fileID: 21300000, guid: 145b667fd3d086d489e39f3b7508a84a, type: 3}
+  - {fileID: 21300000, guid: d786b330a3af4d041a3984b80c68f1e8, type: 3}
+  RankSprite:
+  - {fileID: 21300000, guid: 547ea42a1916f0144b20fed22a61eb41, type: 3}
+  - {fileID: 21300000, guid: 5841bf04539aead45867f983c4da6fdc, type: 3}
+  - {fileID: 21300000, guid: cede0ff797579894babd7685c052b141, type: 3}
+  - {fileID: 21300000, guid: 3806e1eef2c86df4da55a5bf393d83de, type: 3}
+  - {fileID: 21300000, guid: de4cca644a817404797baeb5eefe7303, type: 3}
+  - {fileID: 21300000, guid: 4c9033ebb727f95489c5989c03efea71, type: 3}

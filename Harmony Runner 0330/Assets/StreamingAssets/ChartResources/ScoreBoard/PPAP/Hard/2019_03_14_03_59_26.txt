@@ -1,0 +1,22 @@
+{
+    "ID": "상훈",
+    "MusicName": "PPAP",
+    "Level": "Hard",
+    "LevelInt": 1,
+    "PerfectHit": 3,
+    "GoodHit": 0,
+    "MissHit": 0,
+    "WholeCombo": 3,
+    "LongestCombo": 3,
+    "LongestComboPer": 100.0,
+    "WholeAction": 0,
+    "Action": 0,
+    "SwitchSum": 0,
+    "SwitchedIndex": [],
+    "Accuracy": 100.0,
+    "BaseScore": 377,
+    "Multiplier": 1.0,
+    "TotalScore": 377,
+    "ScoreRank": 0,
+    "ClearTime": "2019_03_14_03_59_26"
+}

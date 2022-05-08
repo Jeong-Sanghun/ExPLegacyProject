@@ -1,0 +1,22 @@
+{
+    "ID": "DESKTOP-TC280DL",
+    "MusicName": "PPAP",
+    "Level": "Normal",
+    "LevelInt": 9,
+    "PerfectHit": 102,
+    "GoodHit": 21,
+    "MissHit": 11,
+    "WholeCombo": 133,
+    "LongestCombo": 82,
+    "LongestComboPer": 61.0,
+    "WholeAction": 0,
+    "Action": 0,
+    "SwitchSum": 0,
+    "SwitchedIndex": [],
+    "Accuracy": 81.4925537109375,
+    "BaseScore": 22990,
+    "Multiplier": 1.1576248407363892,
+    "TotalScore": 26614,
+    "ScoreRank": 2,
+    "ClearTime": "2019_03_11_20_53_16"
+}

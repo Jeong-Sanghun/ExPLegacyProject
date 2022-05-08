@@ -1,0 +1,22 @@
+{
+    "ID": "2019_03_14_05_15_18",
+    "MusicName": "PPAP",
+    "Level": "Hard",
+    "LevelInt": 1,
+    "PerfectHit": 2,
+    "GoodHit": 0,
+    "MissHit": 1,
+    "WholeCombo": 3,
+    "LongestCombo": 2,
+    "LongestComboPer": 66.0,
+    "WholeAction": 0,
+    "Action": 0,
+    "SwitchSum": 0,
+    "SwitchedIndex": [],
+    "Accuracy": 73.33333587646485,
+    "BaseScore": 230,
+    "Multiplier": 1.149999976158142,
+    "TotalScore": 264,
+    "ScoreRank": 3,
+    "ClearTime": "2019_03_14_05_15_12"
+}

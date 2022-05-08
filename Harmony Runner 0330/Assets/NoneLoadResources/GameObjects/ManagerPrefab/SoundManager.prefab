@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1419621276035086}
+  m_IsPrefabParent: 1
+--- !u!1 &1419621276035086
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4067488626706140}
+  - component: {fileID: 114505692286395118}
+  - component: {fileID: 82394453751712512}
+  - component: {fileID: 114762343663361502}
+  - component: {fileID: 114089135629127456}
+  - component: {fileID: 166598346659170884}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &4067488626706140
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1419621276035086}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &82394453751712512
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1419621276035086}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 1c70958e305b28f418515a577a768dbe, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.5122736
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!114 &114089135629127456
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1419621276035086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d87b2501fa05c34787eff443da532c7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _targetOffset: 0
+  _target: {fileID: 114762343663361502}
+--- !u!114 &114505692286395118
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1419621276035086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 736f38bf279f84b4cbfd8f160f863728, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rhythmTool: {fileID: 114762343663361502}
+  rhythmEvent: {fileID: 114089135629127456}
+  AllMusics:
+  - name: Tropical Love
+    volume: 1
+    BPM: 0
+    Clip: {fileID: 8300000, guid: 1c70958e305b28f418515a577a768dbe, type: 3}
+  - name: Campfire
+    volume: 1
+    BPM: 0
+    Clip: {fileID: 8300000, guid: 4333f29c30c457842a9e3430bde83e5b, type: 3}
+  - name: Feel Like Horrible
+    volume: 1
+    BPM: 0
+    Clip: {fileID: 8300000, guid: 4e8bfc6468e8bf4489cf67462367edb1, type: 3}
+  - name: Ricochet
+    volume: 1
+    BPM: 0
+    Clip: {fileID: 8300000, guid: bc35a14f856da6e44bf530df47f7f1b7, type: 3}
+  - name: PPAP
+    volume: 1
+    BPM: 0
+    Clip: {fileID: 8300000, guid: 345c8a83c4e23d7439f59a50630ad0d2, type: 3}
+  - name: Zion
+    volume: 1
+    BPM: 0
+    Clip: {fileID: 8300000, guid: 44d63d3dcf9762d438835262ceb80f02, type: 3}
+  - name: Bones
+    volume: 1
+    BPM: 0
+    Clip: {fileID: 8300000, guid: e1b2ecd910cda3e46b913184e50b6d4d, type: 3}
+  - name: Why We lose
+    volume: 1
+    BPM: 0
+    Clip: {fileID: 8300000, guid: 2f6df019411778244935e7ed4e6031a7, type: 3}
+  - name: Mortals
+    volume: 1
+    BPM: 0
+    Clip: {fileID: 8300000, guid: 7c5595f538b6e61469b29372ab003716, type: 3}
+  - name: Turn It Up
+    volume: 1
+    BPM: 0
+    Clip: {fileID: 8300000, guid: e88336ec4612b3843a60b2b356476709, type: 3}
+  nowMusic: {fileID: 82394453751712512}
+  WholeTime: 0
+--- !u!114 &114762343663361502
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1419621276035086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502aad33672b168498d5a26f1cff3355, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _trackBeat: 1
+  _lead: 300
+  _preAnalyze: 1
+  _cacheAnalysis: 1
+--- !u!166 &166598346659170884
+AudioChorusFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1419621276035086}
+  m_Enabled: 1
+  m_DryMix: 0.5
+  m_WetMix1: 0.5
+  m_WetMix2: 0.5
+  m_WetMix3: 0.5
+  m_Delay: 40
+  m_Rate: 0.8
+  m_Depth: 0.03

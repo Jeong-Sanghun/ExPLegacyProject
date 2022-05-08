@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1096692083088754}
+  m_IsPrefabParent: 1
+--- !u!1 &1096692083088754
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4091562525453636}
+  - component: {fileID: 114558545812716992}
+  - component: {fileID: 114582836901942632}
+  m_Layer: 0
+  m_Name: NoteManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &4091562525453636
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1096692083088754}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114558545812716992
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1096692083088754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba84e17e179c96845b3f6f9a1b45e7ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  passScript: {fileID: 0}
+  soundManager: {fileID: 0}
+  Velocity: 25
+  UpArrowObject: {fileID: 1445032950282240, guid: 4cb79dcc37c0f904faf9e27105f23130,
+    type: 2}
+  UpLongArrowObject: {fileID: 1178738635646122, guid: 2a5a379624ed3ff4cbd21a1ea6147f0e,
+    type: 2}
+  LeftArrowObject: {fileID: 1610076757974522, guid: 610b173aa1e944d4984a2d7e9070daac,
+    type: 2}
+  LeftLongArrowObject: {fileID: 1631759318673326, guid: 10405e68e3c200d448fb051072aa12b2,
+    type: 2}
+  RightArrowObject: {fileID: 1537049288593502, guid: 2a2494b8082131f4382a9059f9cd607a,
+    type: 2}
+  RightLongArrowObject: {fileID: 1897694196643530, guid: 5aa0edc5ecab8f146af87df1d50478c1,
+    type: 2}
+  DownArrowObject: {fileID: 1039392411789672, guid: 12384d48faab7f546a5783c476d9bb5d,
+    type: 2}
+  DownLongArrowObject: {fileID: 1544855442112840, guid: 834bd07517a5ba34c982ba6c80468486,
+    type: 2}
+  UpArrowObjectPool:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  UpLongArrowObjectPool:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  LeftArrowObjectPool:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  LeftLongArrowObjectPool:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  RightArrowObjectPool:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  RightLongArrowObjectPool:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  DownArrowObjectPool:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  DownLongArrowObjectPool:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  BPM: 0
+  NoteBook:
+    NoteVelocity: 0
+    MusicName: Tropical Love
+    NoteList:
+    - NoteTime: 3.3919954
+      NoteType: 53
+      LongNoteLength: 10.367982
+  Index: 1
+  Offset: 0.8
+--- !u!114 &114582836901942632
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1096692083088754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1070a6447e0a4343a097c47ca2af661, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myText: {fileID: 0}

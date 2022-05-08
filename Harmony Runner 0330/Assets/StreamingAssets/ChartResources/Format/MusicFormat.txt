@@ -1,0 +1,104 @@
+{
+    "MusicList": [
+        {
+            "MusicName": "Campfire",
+            "ChapterNum": 1,
+            "LevelStringList": [
+                "Easy"
+            ],
+            "LevelIntList": [
+                5
+            ]
+        },
+        {
+            "MusicName": "Feel Like Horrible",
+            "ChapterNum": 1,
+            "LevelStringList": [
+                "Normal"
+            ],
+            "LevelIntList": [
+                7
+            ]
+        },
+        {
+            "MusicName": "PPAP",
+            "ChapterNum": 2,
+            "LevelStringList": [
+                "Normal"
+            ],
+            "LevelIntList": [
+                9
+            ]
+        },
+        {
+            "MusicName": "Ricochet",
+            "ChapterNum": 2,
+            "LevelStringList": [
+                "Normal"
+            ],
+            "LevelIntList": [
+                8
+            ]
+        },
+        {
+            "MusicName": "Tropical Love",
+            "ChapterNum": 1,
+            "LevelStringList": [
+                "Easy"
+            ],
+            "LevelIntList": [
+                5
+            ]
+        },
+        {
+            "MusicName": "Zion",
+            "ChapterNum": 2,
+            "LevelStringList": [
+                "Hard"
+            ],
+            "LevelIntList": [
+                13
+            ]
+        },
+        {
+            "MusicName": "Bones",
+            "ChapterNum": 1,
+            "LevelStringList": [
+                "Hard"
+            ],
+            "LevelIntList": [
+                11
+            ]
+        },
+        {
+            "MusicName": "Turn It Up",
+            "ChapterNum": 2,
+            "LevelStringList": [
+                "Normal"
+            ],
+            "LevelIntList": [
+                10
+            ]
+        },
+        {
+            "MusicName": "Mortals",
+            "ChapterNum": 2,
+            "LevelStringList": [
+                "Hard"
+            ],
+            "LevelIntList": [
+                15
+            ]
+        },
+        {
+            "MusicName": "Why We lose",
+            "ChapterNum": 1,
+            "LevelStringList": [
+                "Normal"
+            ],
+            "LevelIntList": [
+                7
+            ]
+        }
+    ]
+}

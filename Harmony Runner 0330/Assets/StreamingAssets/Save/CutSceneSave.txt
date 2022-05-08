@@ -1,0 +1,8 @@
+{
+    "introSeen": false,
+    "chapter1Seen": false,
+    "chapter2Seen": false,
+    "chapter3seen": false,
+    "chapter1List": [],
+    "chapter2List": []
+}

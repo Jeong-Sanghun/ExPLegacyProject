@@ -1,0 +1,22 @@
+{
+    "ID": "",
+    "MusicName": "Campfire",
+    "Level": "Normal",
+    "LevelInt": 10,
+    "PerfectHit": 410,
+    "GoodHit": 126,
+    "MissHit": 22,
+    "WholeCombo": 558,
+    "LongestCombo": 131,
+    "LongestComboPer": 23.0,
+    "WholeAction": 0,
+    "Action": 0,
+    "SwitchSum": 0,
+    "SwitchedIndex": [],
+    "Accuracy": 79.44445037841797,
+    "BaseScore": 114232,
+    "Multiplier": 1.0,
+    "TotalScore": 114232,
+    "ScoreRank": 2,
+    "ClearTime": "2019_03_11_11_24_52"
+}

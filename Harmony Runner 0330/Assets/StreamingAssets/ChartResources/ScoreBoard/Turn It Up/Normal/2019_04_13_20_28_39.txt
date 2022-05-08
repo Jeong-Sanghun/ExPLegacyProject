@@ -1,0 +1,22 @@
+{
+    "ID": "2019_04_13_20_28_58",
+    "MusicName": "Turn It Up",
+    "Level": "Normal",
+    "LevelInt": 10,
+    "PerfectHit": 478,
+    "GoodHit": 73,
+    "MissHit": 20,
+    "WholeCombo": 575,
+    "LongestCombo": 167,
+    "LongestComboPer": 29.0,
+    "WholeAction": 0,
+    "Action": 0,
+    "SwitchSum": 0,
+    "SwitchedIndex": [],
+    "Accuracy": 86.58489990234375,
+    "BaseScore": 132590,
+    "Multiplier": 1.0,
+    "TotalScore": 132590,
+    "ScoreRank": 1,
+    "ClearTime": "2019_04_13_20_28_39"
+}

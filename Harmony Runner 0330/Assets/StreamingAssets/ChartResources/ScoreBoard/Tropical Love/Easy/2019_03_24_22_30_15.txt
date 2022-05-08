@@ -1,0 +1,22 @@
+{
+    "ID": "Legendary",
+    "MusicName": "Tropical Love",
+    "Level": "Easy",
+    "LevelInt": 5,
+    "PerfectHit": 336,
+    "GoodHit": 1,
+    "MissHit": 4,
+    "WholeCombo": 342,
+    "LongestCombo": 178,
+    "LongestComboPer": 52.0,
+    "WholeAction": 1,
+    "Action": 1,
+    "SwitchSum": 0,
+    "SwitchedIndex": [],
+    "Accuracy": 97.41935729980469,
+    "BaseScore": 93387,
+    "Multiplier": 1.0,
+    "TotalScore": 93387,
+    "ScoreRank": 1,
+    "ClearTime": "2019_03_24_22_30_15"
+}

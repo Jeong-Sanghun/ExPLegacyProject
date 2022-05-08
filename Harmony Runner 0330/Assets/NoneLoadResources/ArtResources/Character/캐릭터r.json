@@ -1,0 +1,116 @@
+{ "skeleton": { "images": "images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "레이어 3", "bone": "root", "attachment": "레이어 3" },
+	{ "name": "레이어 3 복사", "bone": "root" },
+	{ "name": "원본", "bone": "root" },
+	{ "name": "character", "bone": "root" },
+	{ "name": "뒷팔목", "bone": "root", "attachment": "뒷팔목" },
+	{ "name": "뒷손", "bone": "root", "attachment": "뒷손" },
+	{ "name": "뒷팔뚝", "bone": "root", "attachment": "뒷팔뚝" },
+	{ "name": "뒷어깨", "bone": "root", "attachment": "뒷어깨" },
+	{ "name": "앞팔목", "bone": "root", "attachment": "앞팔목" },
+	{ "name": "앞손", "bone": "root", "attachment": "앞손" },
+	{ "name": "앞팔뚝", "bone": "root", "attachment": "앞팔뚝" },
+	{ "name": "앞어깨", "bone": "root", "attachment": "앞어깨" },
+	{ "name": "뒷종아리", "bone": "root", "attachment": "뒷종아리" },
+	{ "name": "뒷허벅지", "bone": "root", "attachment": "뒷허벅지" },
+	{ "name": "뒷발", "bone": "root", "attachment": "뒷발" },
+	{ "name": "앞종아리", "bone": "root", "attachment": "앞종아리" },
+	{ "name": "앞허벅지", "bone": "root", "attachment": "앞허벅지" },
+	{ "name": "앞발", "bone": "root", "attachment": "앞발" },
+	{ "name": "목", "bone": "root", "attachment": "목" },
+	{ "name": "머리", "bone": "root", "attachment": "머리" },
+	{ "name": "머리랑눈", "bone": "root", "attachment": "머리랑눈" },
+	{ "name": "눈", "bone": "root", "attachment": "눈" },
+	{ "name": "허리", "bone": "root", "attachment": "허리" },
+	{ "name": "가슴", "bone": "root", "attachment": "가슴" },
+	{ "name": "후드", "bone": "root", "attachment": "후드" },
+	{ "name": "신발 2", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"레이어 3": {
+			"레이어 3": { "x": 586.5, "y": -1000, "width": 1175, "height": 2002 }
+		},
+		"레이어 3 복사": {
+			"레이어 3 복사": { "x": 586.5, "y": -1000, "width": 1175, "height": 2002 }
+		},
+		"원본": {
+			"원본": { "x": 586.5, "y": -1000, "width": 1175, "height": 2002 }
+		},
+		"character": {
+			"character": { "x": 667.5, "y": -917.5, "width": 865, "height": 1727 }
+		},
+		"뒷팔목": {
+			"뒷팔목": { "x": 637.5, "y": -1062, "width": 135, "height": 336 }
+		},
+		"뒷손": {
+			"뒷손": { "x": 527, "y": -1427.5, "width": 424, "height": 675 }
+		},
+		"뒷팔뚝": {
+			"뒷팔뚝": { "x": 622, "y": -847.5, "width": 108, "height": 279 }
+		},
+		"뒷어깨": {
+			"뒷어깨": { "x": 624.5, "y": -725.5, "width": 59, "height": 147 }
+		},
+		"앞팔목": {
+			"앞팔목": { "x": 314, "y": -1096, "width": 158, "height": 360 }
+		},
+		"앞손": {
+			"앞손": { "x": 315.5, "y": -1299, "width": 85, "height": 142 }
+		},
+		"앞팔뚝": {
+			"앞팔뚝": { "x": 372.5, "y": -852.5, "width": 227, "height": 367 }
+		},
+		"앞어깨": {
+			"앞어깨": { "x": 490, "y": -700.5, "width": 154, "height": 157 }
+		},
+		"뒷종아리": {
+			"뒷종아리": { "x": 572.5, "y": -1486, "width": 85, "height": 256 }
+		},
+		"뒷허벅지": {
+			"뒷허벅지": { "x": 541, "y": -1229, "width": 148, "height": 370 }
+		},
+		"뒷발": {
+			"뒷발": { "x": 540.5, "y": -1645.5, "width": 451, "height": 209 }
+		},
+		"앞종아리": {
+			"앞종아리": { "x": 445.5, "y": -1508.5, "width": 113, "height": 301 }
+		},
+		"앞허벅지": {
+			"앞허벅지": { "x": 444, "y": -1245, "width": 116, "height": 334 }
+		},
+		"앞발": {
+			"앞발": { "x": 393, "y": -1698, "width": 528, "height": 244 }
+		},
+		"목": {
+			"목": { "x": 649, "y": -624, "width": 234, "height": 244 }
+		},
+		"머리": {
+			"머리": { "x": 802.5, "y": -355, "width": 595, "height": 604 }
+		},
+		"머리랑눈": {
+			"머리랑눈": { "x": 802.5, "y": -355, "width": 595, "height": 604 }
+		},
+		"눈": {
+			"눈": { "x": 787, "y": -341.5, "width": 348, "height": 357 }
+		},
+		"허리": {
+			"허리": { "x": 439, "y": -1091, "width": 352, "height": 330 }
+		},
+		"가슴": {
+			"가슴": { "x": 475, "y": -834.5, "width": 332, "height": 477 }
+		},
+		"후드": {
+			"후드": { "x": 505.5, "y": -674.5, "width": 353, "height": 165 }
+		},
+		"신발 2": {
+			"신발 2": { "x": 693.5, "y": -1710, "width": 477, "height": 244 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

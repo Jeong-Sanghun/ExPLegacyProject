@@ -1,0 +1,22 @@
+{
+    "ID": "또상훈",
+    "MusicName": "PPAP",
+    "Level": "Normal",
+    "LevelInt": 9,
+    "PerfectHit": 112,
+    "GoodHit": 20,
+    "MissHit": 1,
+    "WholeCombo": 133,
+    "LongestCombo": 96,
+    "LongestComboPer": 72.0,
+    "WholeAction": 0,
+    "Action": 0,
+    "SwitchSum": 0,
+    "SwitchedIndex": [],
+    "Accuracy": 85.93986511230469,
+    "BaseScore": 29762,
+    "Multiplier": 1.0,
+    "TotalScore": 29762,
+    "ScoreRank": 1,
+    "ClearTime": "2019_03_14_04_55_14"
+}

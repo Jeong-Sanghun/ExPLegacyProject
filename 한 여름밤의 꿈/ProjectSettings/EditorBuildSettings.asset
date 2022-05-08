@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sanghun/GraphicScene.unity
+    guid: 2ce7273ade1601f4bbdedb4038f1ca9c
+  - enabled: 1
+    path: "Assets/Taek/\uC2A4\uD14C\uC774\uC9C01.unity"
+    guid: addd11aa82aeef04988ac6be674722e7
+  - enabled: 1
+    path: "Assets/Taek/\uC2A4\uD14C\uC774\uC9C0 2.unity"
+    guid: a62f85272a5f9a84f990ae761e085415
+  - enabled: 1
+    path: "Assets/Taek/\uC2A4\uD14C\uC774\uC9C0 3.unity"
+    guid: c51a09f3b52cb8b479e7abb1322c18f3
+  - enabled: 1
+    path: "Assets/Taek/\uC2A4\uD14C\uC774\uC9C04.unity"
+    guid: 8ecac4571873ffb4baee061281db06e7
+  - enabled: 1
+    path: "Assets/Taek/\uC2A4\uD14C\uC774\uC9C05.unity"
+    guid: cec6c2cd4d28fd7419f3b0fdd3081dd9

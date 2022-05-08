@@ -1,0 +1,22 @@
+{
+    "ID": "뭐요정도 ㅎㅎ",
+    "MusicName": "PPAP",
+    "Level": "Normal",
+    "LevelInt": 9,
+    "PerfectHit": 118,
+    "GoodHit": 15,
+    "MissHit": 0,
+    "WholeCombo": 133,
+    "LongestCombo": 133,
+    "LongestComboPer": 100.0,
+    "WholeAction": 0,
+    "Action": 0,
+    "SwitchSum": 0,
+    "SwitchedIndex": [],
+    "Accuracy": 87.81952667236328,
+    "BaseScore": 33975,
+    "Multiplier": 1.0,
+    "TotalScore": 33975,
+    "ScoreRank": 1,
+    "ClearTime": "2019_03_14_04_58_57"
+}

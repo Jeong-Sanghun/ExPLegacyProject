@@ -1,0 +1,2252 @@
+{
+    "routes": 0,
+    "NoteVelocity": 0.0,
+    "MusicName": "Campfire",
+    "Level": "Easy",
+    "IntLevel": 5,
+	"Chapter": 1,
+    "BPM": 0.0,
+    "RoutingIndexFirst": [],
+    "RoutingIndexSecond": [],
+    "ActionIndexFirst": [],
+    "ActionIndexSecond": [],
+    "NoteList": [
+        {
+            "NewNoteList": [
+                {
+                    "NoteTime": 277,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2625382
+                    }
+                },
+                {
+                    "NoteTime": 306,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2625638
+                    }
+                },
+                {
+                    "NoteTime": 336,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2625894
+                    }
+                },
+                {
+                    "NoteTime": 363,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2626150
+                    }
+                },
+                {
+                    "NoteTime": 392,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2625398
+                    }
+                },
+                {
+                    "NoteTime": 421,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2625654
+                    }
+                },
+                {
+                    "NoteTime": 448,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2625366
+                    }
+                },
+                {
+                    "NoteTime": 478,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2625622
+                    }
+                },
+                {
+                    "NoteTime": 504,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2626406
+                    }
+                },
+                {
+                    "NoteTime": 511,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2625910
+                    }
+                },
+                {
+                    "NoteTime": 521,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2625878
+                    }
+                },
+                {
+                    "NoteTime": 531,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2626662
+                    }
+                },
+                {
+                    "NoteTime": 557,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2626166
+                    }
+                },
+                {
+                    "NoteTime": 567,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2626134
+                    }
+                },
+                {
+                    "NoteTime": 577,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2626918
+                    }
+                },
+                {
+                    "NoteTime": 588,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2625350
+                    }
+                },
+                {
+                    "NoteTime": 612,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2626390
+                    }
+                },
+                {
+                    "NoteTime": 623,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2627174
+                    }
+                },
+                {
+                    "NoteTime": 634,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2626422
+                    }
+                },
+                {
+                    "NoteTime": 645,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2626646
+                    }
+                },
+                {
+                    "NoteTime": 672,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2627430
+                    }
+                },
+                {
+                    "NoteTime": 684,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2626902
+                    }
+                },
+                {
+                    "NoteTime": 694,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2626678
+                    }
+                },
+                {
+                    "NoteTime": 706,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2627686
+                    }
+                },
+                {
+                    "NoteTime": 729,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2627158
+                    }
+                },
+                {
+                    "NoteTime": 740,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2626934
+                    }
+                },
+                {
+                    "NoteTime": 751,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2627942
+                    }
+                },
+                {
+                    "NoteTime": 762,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2628198
+                    }
+                },
+                {
+                    "NoteTime": 784,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2627190
+                    }
+                },
+                {
+                    "NoteTime": 795,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2627414
+                    }
+                },
+                {
+                    "NoteTime": 806,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2627446
+                    }
+                },
+                {
+                    "NoteTime": 818,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2627702
+                    }
+                },
+                {
+                    "NoteTime": 841,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2628454
+                    }
+                },
+                {
+                    "NoteTime": 852,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2627670
+                    }
+                },
+                {
+                    "NoteTime": 863,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2628710
+                    }
+                },
+                {
+                    "NoteTime": 874,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2625606
+                    }
+                },
+                {
+                    "NoteTime": 897,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2627926
+                    }
+                },
+                {
+                    "NoteTime": 910,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2628966
+                    }
+                },
+                {
+                    "NoteTime": 920,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2627958
+                    }
+                },
+                {
+                    "NoteTime": 933,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2628182
+                    }
+                },
+                {
+                    "NoteTime": 964,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2629222
+                    }
+                },
+                {
+                    "NoteTime": 992,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2629478
+                    }
+                },
+                {
+                    "NoteTime": 1021,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2628214
+                    }
+                },
+                {
+                    "NoteTime": 1049,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2628470
+                    }
+                },
+                {
+                    "NoteTime": 1076,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2628438
+                    }
+                },
+                {
+                    "NoteTime": 1105,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2628694
+                    }
+                },
+                {
+                    "NoteTime": 1135,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2629734
+                    }
+                },
+                {
+                    "NoteTime": 1162,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2625862
+                    }
+                },
+                {
+                    "NoteTime": 1192,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2628950
+                    }
+                },
+                {
+                    "NoteTime": 1222,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2628726
+                    }
+                },
+                {
+                    "NoteTime": 1250,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2629206
+                    }
+                },
+                {
+                    "NoteTime": 1278,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2629990
+                    }
+                },
+                {
+                    "NoteTime": 1306,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2628982
+                    }
+                },
+                {
+                    "NoteTime": 1334,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2629462
+                    }
+                },
+                {
+                    "NoteTime": 1362,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2630246
+                    }
+                },
+                {
+                    "NoteTime": 1390,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2629238
+                    }
+                },
+                {
+                    "NoteTime": 1418,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2629718
+                    }
+                },
+                {
+                    "NoteTime": 1434,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2630502
+                    }
+                },
+                {
+                    "NoteTime": 1446,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2629494
+                    }
+                },
+                {
+                    "NoteTime": 1469,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2629974
+                    }
+                },
+                {
+                    "NoteTime": 1482,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2630758
+                    }
+                },
+                {
+                    "NoteTime": 1491,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2629750
+                    }
+                },
+                {
+                    "NoteTime": 1526,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2630230
+                    }
+                },
+                {
+                    "NoteTime": 1537,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2630006
+                    }
+                },
+                {
+                    "NoteTime": 1549,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2631014
+                    }
+                },
+                {
+                    "NoteTime": 1585,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2630486
+                    }
+                },
+                {
+                    "NoteTime": 1594,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2630262
+                    }
+                },
+                {
+                    "NoteTime": 1605,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2631270
+                    }
+                },
+                {
+                    "NoteTime": 1617,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2630742
+                    }
+                },
+                {
+                    "NoteTime": 1644,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2631526
+                    }
+                },
+                {
+                    "NoteTime": 1662,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2630518
+                    }
+                },
+                {
+                    "NoteTime": 1674,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2630998
+                    }
+                },
+                {
+                    "NoteTime": 1699,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2631782
+                    }
+                },
+                {
+                    "NoteTime": 1710,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2631254
+                    }
+                },
+                {
+                    "NoteTime": 1721,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2630774
+                    }
+                },
+                {
+                    "NoteTime": 1754,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2631510
+                    }
+                },
+                {
+                    "NoteTime": 1767,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2632038
+                    }
+                },
+                {
+                    "NoteTime": 1778,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2626118
+                    }
+                },
+                {
+                    "NoteTime": 1816,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2631030
+                    }
+                },
+                {
+                    "NoteTime": 1834,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2632294
+                    }
+                },
+                {
+                    "NoteTime": 1855,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2626374
+                    }
+                },
+                {
+                    "NoteTime": 1890,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2631766
+                    }
+                },
+                {
+                    "NoteTime": 1905,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2631286
+                    }
+                },
+                {
+                    "NoteTime": 1928,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2632550
+                    }
+                },
+                {
+                    "NoteTime": 1947,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2632022
+                    }
+                },
+                {
+                    "NoteTime": 1958,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2631542
+                    }
+                },
+                {
+                    "NoteTime": 1986,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2632278
+                    }
+                },
+                {
+                    "NoteTime": 1995,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2632806
+                    }
+                },
+                {
+                    "NoteTime": 2006,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2631798
+                    }
+                },
+                {
+                    "NoteTime": 2018,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2632534
+                    }
+                },
+                {
+                    "NoteTime": 2063,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2633062
+                    }
+                },
+                {
+                    "NoteTime": 2074,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2633318
+                    }
+                },
+                {
+                    "NoteTime": 2120,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2632790
+                    }
+                },
+                {
+                    "NoteTime": 2130,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2632054
+                    }
+                },
+                {
+                    "NoteTime": 2174,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2633046
+                    }
+                },
+                {
+                    "NoteTime": 2186,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2633574
+                    }
+                },
+                {
+                    "NoteTime": 2233,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2633830
+                    }
+                },
+                {
+                    "NoteTime": 2242,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2626630
+                    }
+                },
+                {
+                    "NoteTime": 2286,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2632310
+                    }
+                },
+                {
+                    "NoteTime": 2301,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2632566
+                    }
+                },
+                {
+                    "NoteTime": 2312,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2633302
+                    }
+                },
+                {
+                    "NoteTime": 2334,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2634086
+                    }
+                },
+                {
+                    "NoteTime": 2359,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2634342
+                    }
+                },
+                {
+                    "NoteTime": 2388,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2634598
+                    }
+                },
+                {
+                    "NoteTime": 2414,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2634854
+                    }
+                },
+                {
+                    "NoteTime": 2446,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2632822
+                    }
+                },
+                {
+                    "NoteTime": 2473,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2633078
+                    }
+                },
+                {
+                    "NoteTime": 2501,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2633334
+                    }
+                },
+                {
+                    "NoteTime": 2533,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2633590
+                    }
+                },
+                {
+                    "NoteTime": 2562,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2633558
+                    }
+                },
+                {
+                    "NoteTime": 2590,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2633814
+                    }
+                },
+                {
+                    "NoteTime": 2616,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2634070
+                    }
+                },
+                {
+                    "NoteTime": 2645,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2634326
+                    }
+                },
+                {
+                    "NoteTime": 2675,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2635110
+                    }
+                },
+                {
+                    "NoteTime": 2702,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2633846
+                    }
+                },
+                {
+                    "NoteTime": 2735,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2635366
+                    }
+                },
+                {
+                    "NoteTime": 2762,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2626886
+                    }
+                },
+                {
+                    "NoteTime": 2792,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2634582
+                    }
+                },
+                {
+                    "NoteTime": 2819,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2634838
+                    }
+                },
+                {
+                    "NoteTime": 2850,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2635094
+                    }
+                },
+                {
+                    "NoteTime": 2878,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2635350
+                    }
+                },
+                {
+                    "NoteTime": 2906,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2634102
+                    }
+                },
+                {
+                    "NoteTime": 2937,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2634358
+                    }
+                },
+                {
+                    "NoteTime": 2964,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2634614
+                    }
+                },
+                {
+                    "NoteTime": 2993,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2634870
+                    }
+                },
+                {
+                    "NoteTime": 3020,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2635622
+                    }
+                },
+                {
+                    "NoteTime": 3049,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2635878
+                    }
+                },
+                {
+                    "NoteTime": 3077,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2636134
+                    }
+                },
+                {
+                    "NoteTime": 3105,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2636390
+                    }
+                },
+                {
+                    "NoteTime": 3134,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2635606
+                    }
+                },
+                {
+                    "NoteTime": 3165,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2636646
+                    }
+                },
+                {
+                    "NoteTime": 3192,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2635862
+                    }
+                },
+                {
+                    "NoteTime": 3218,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2627142
+                    }
+                },
+                {
+                    "NoteTime": 3243,
+                    "NoteType": 53,
+                    "LongNoteLength": 10.0,
+                    "EditNote": {
+                        "instanceID": -2625462
+                    }
+                },
+                {
+                    "NoteTime": 3263,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2635126
+                    }
+                },
+                {
+                    "NoteTime": 3273,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2636118
+                    }
+                },
+                {
+                    "NoteTime": 3295,
+                    "NoteType": 54,
+                    "LongNoteLength": 11.0,
+                    "EditNote": {
+                        "instanceID": -2625510
+                    }
+                },
+                {
+                    "NoteTime": 3319,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2636374
+                    }
+                },
+                {
+                    "NoteTime": 3330,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2635382
+                    }
+                },
+                {
+                    "NoteTime": 3352,
+                    "NoteType": 54,
+                    "LongNoteLength": 11.0,
+                    "EditNote": {
+                        "instanceID": -2625766
+                    }
+                },
+                {
+                    "NoteTime": 3374,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2635638
+                    }
+                },
+                {
+                    "NoteTime": 3387,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2636630
+                    }
+                },
+                {
+                    "NoteTime": 3408,
+                    "NoteType": 52,
+                    "LongNoteLength": 14.0,
+                    "EditNote": {
+                        "instanceID": -2625558
+                    }
+                },
+                {
+                    "NoteTime": 3434,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2636886
+                    }
+                },
+                {
+                    "NoteTime": 3444,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2637142
+                    }
+                },
+                {
+                    "NoteTime": 3455,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2627398
+                    }
+                },
+                {
+                    "NoteTime": 3475,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2637398
+                    }
+                },
+                {
+                    "NoteTime": 3481,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2635894
+                    }
+                },
+                {
+                    "NoteTime": 3491,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2636902
+                    }
+                },
+                {
+                    "NoteTime": 3503,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2637654
+                    }
+                },
+                {
+                    "NoteTime": 3526,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2637158
+                    }
+                },
+                {
+                    "NoteTime": 3536,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2637910
+                    }
+                },
+                {
+                    "NoteTime": 3547,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2636150
+                    }
+                },
+                {
+                    "NoteTime": 3558,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2637414
+                    }
+                },
+                {
+                    "NoteTime": 3582,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2638166
+                    }
+                },
+                {
+                    "NoteTime": 3593,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2637670
+                    }
+                },
+                {
+                    "NoteTime": 3604,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2636406
+                    }
+                },
+                {
+                    "NoteTime": 3615,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2638422
+                    }
+                },
+                {
+                    "NoteTime": 3639,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2637926
+                    }
+                },
+                {
+                    "NoteTime": 3654,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2638678
+                    }
+                },
+                {
+                    "NoteTime": 3661,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2636662
+                    }
+                },
+                {
+                    "NoteTime": 3674,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2638182
+                    }
+                },
+                {
+                    "NoteTime": 3722,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2638438
+                    }
+                },
+                {
+                    "NoteTime": 3761,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2636918
+                    }
+                },
+                {
+                    "NoteTime": 3791,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2638934
+                    }
+                },
+                {
+                    "NoteTime": 3823,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2638694
+                    }
+                },
+                {
+                    "NoteTime": 3848,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2637174
+                    }
+                },
+                {
+                    "NoteTime": 3875,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2639190
+                    }
+                },
+                {
+                    "NoteTime": 3906,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2627654
+                    }
+                },
+                {
+                    "NoteTime": 3935,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2639446
+                    }
+                },
+                {
+                    "NoteTime": 3963,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2637430
+                    }
+                },
+                {
+                    "NoteTime": 3991,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2638950
+                    }
+                },
+                {
+                    "NoteTime": 4020,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2639702
+                    }
+                },
+                {
+                    "NoteTime": 4050,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2637686
+                    }
+                },
+                {
+                    "NoteTime": 4076,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2637942
+                    }
+                },
+                {
+                    "NoteTime": 4105,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2639206
+                    }
+                },
+                {
+                    "NoteTime": 4137,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2639958
+                    }
+                },
+                {
+                    "NoteTime": 4160,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2638198
+                    }
+                },
+                {
+                    "NoteTime": 4167,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2640214
+                    }
+                },
+                {
+                    "NoteTime": 4177,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2639462
+                    }
+                },
+                {
+                    "NoteTime": 4187,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2638454
+                    }
+                },
+                {
+                    "NoteTime": 4211,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2640470
+                    }
+                },
+                {
+                    "NoteTime": 4222,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2639718
+                    }
+                },
+                {
+                    "NoteTime": 4232,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2638710
+                    }
+                },
+                {
+                    "NoteTime": 4244,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2627910
+                    }
+                },
+                {
+                    "NoteTime": 4272,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2640726
+                    }
+                },
+                {
+                    "NoteTime": 4280,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2639974
+                    }
+                },
+                {
+                    "NoteTime": 4291,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2638966
+                    }
+                },
+                {
+                    "NoteTime": 4301,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2628166
+                    }
+                },
+                {
+                    "NoteTime": 4328,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2640230
+                    }
+                },
+                {
+                    "NoteTime": 4340,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2640486
+                    }
+                },
+                {
+                    "NoteTime": 4350,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2640982
+                    }
+                },
+                {
+                    "NoteTime": 4359,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2639222
+                    }
+                },
+                {
+                    "NoteTime": 4384,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2641238
+                    }
+                },
+                {
+                    "NoteTime": 4394,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2640742
+                    }
+                },
+                {
+                    "NoteTime": 4406,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2639478
+                    }
+                },
+                {
+                    "NoteTime": 4417,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2628422
+                    }
+                },
+                {
+                    "NoteTime": 4440,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2641494
+                    }
+                },
+                {
+                    "NoteTime": 4451,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2640998
+                    }
+                },
+                {
+                    "NoteTime": 4462,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2641254
+                    }
+                },
+                {
+                    "NoteTime": 4473,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2628678
+                    }
+                },
+                {
+                    "NoteTime": 4497,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2639734
+                    }
+                },
+                {
+                    "NoteTime": 4508,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2641510
+                    }
+                },
+                {
+                    "NoteTime": 4518,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2639990
+                    }
+                },
+                {
+                    "NoteTime": 4529,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2628934
+                    }
+                },
+                {
+                    "NoteTime": 4554,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2641750
+                    }
+                },
+                {
+                    "NoteTime": 4565,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2640246
+                    }
+                },
+                {
+                    "NoteTime": 4574,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2641766
+                    }
+                },
+                {
+                    "NoteTime": 4588,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2642022
+                    }
+                },
+                {
+                    "NoteTime": 4597,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2642278
+                    }
+                },
+                {
+                    "NoteTime": 4620,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2642006
+                    }
+                },
+                {
+                    "NoteTime": 4634,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2640502
+                    }
+                },
+                {
+                    "NoteTime": 4645,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2642534
+                    }
+                },
+                {
+                    "NoteTime": 4667,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2642262
+                    }
+                },
+                {
+                    "NoteTime": 4678,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2640758
+                    }
+                },
+                {
+                    "NoteTime": 4689,
+                    "NoteType": 54,
+                    "LongNoteLength": 9.0,
+                    "EditNote": {
+                        "instanceID": -2626022
+                    }
+                },
+                {
+                    "NoteTime": 4704,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2642518
+                    }
+                },
+                {
+                    "NoteTime": 4731,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2641014
+                    }
+                },
+                {
+                    "NoteTime": 4739,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2642790
+                    }
+                },
+                {
+                    "NoteTime": 4748,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2642774
+                    }
+                },
+                {
+                    "NoteTime": 4759,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2629190
+                    }
+                },
+                {
+                    "NoteTime": 4783,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2643030
+                    }
+                },
+                {
+                    "NoteTime": 4795,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2643046
+                    }
+                },
+                {
+                    "NoteTime": 4805,
+                    "NoteType": 52,
+                    "LongNoteLength": 12.0,
+                    "EditNote": {
+                        "instanceID": -2625814
+                    }
+                },
+                {
+                    "NoteTime": 4843,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2641270
+                    }
+                },
+                {
+                    "NoteTime": 4854,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2643302
+                    }
+                },
+                {
+                    "NoteTime": 4862,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2629446
+                    }
+                },
+                {
+                    "NoteTime": 4873,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2643286
+                    }
+                },
+                {
+                    "NoteTime": 4896,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2641526
+                    }
+                },
+                {
+                    "NoteTime": 4911,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2643558
+                    }
+                },
+                {
+                    "NoteTime": 4922,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2643542
+                    }
+                },
+                {
+                    "NoteTime": 4930,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2643814
+                    }
+                },
+                {
+                    "NoteTime": 4955,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2643798
+                    }
+                },
+                {
+                    "NoteTime": 4966,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2641782
+                    }
+                },
+                {
+                    "NoteTime": 4978,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2644070
+                    }
+                },
+                {
+                    "NoteTime": 4989,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2629702
+                    }
+                },
+                {
+                    "NoteTime": 5012,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2644326
+                    }
+                },
+                {
+                    "NoteTime": 5023,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2644582
+                    }
+                },
+                {
+                    "NoteTime": 5034,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2642038
+                    }
+                },
+                {
+                    "NoteTime": 5047,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2644054
+                    }
+                },
+                {
+                    "NoteTime": 5071,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2644838
+                    }
+                },
+                {
+                    "NoteTime": 5090,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2644310
+                    }
+                },
+                {
+                    "NoteTime": 5102,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2642294
+                    }
+                },
+                {
+                    "NoteTime": 5126,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2644566
+                    }
+                },
+                {
+                    "NoteTime": 5134,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2645094
+                    }
+                },
+                {
+                    "NoteTime": 5148,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2642550
+                    }
+                },
+                {
+                    "NoteTime": 5161,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2644822
+                    }
+                },
+                {
+                    "NoteTime": 5184,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2645350
+                    }
+                },
+                {
+                    "NoteTime": 5191,
+                    "NoteType": 56,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2629958
+                    }
+                },
+                {
+                    "NoteTime": 5202,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2645606
+                    }
+                },
+                {
+                    "NoteTime": 5216,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2645078
+                    }
+                },
+                {
+                    "NoteTime": 5240,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2642806
+                    }
+                },
+                {
+                    "NoteTime": 5248,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2645334
+                    }
+                },
+                {
+                    "NoteTime": 5255,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2645862
+                    }
+                },
+                {
+                    "NoteTime": 5262,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2643062
+                    }
+                },
+                {
+                    "NoteTime": 5276,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2645590
+                    }
+                },
+                {
+                    "NoteTime": 5299,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2646118
+                    }
+                },
+                {
+                    "NoteTime": 5307,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2646374
+                    }
+                },
+                {
+                    "NoteTime": 5318,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2643318
+                    }
+                },
+                {
+                    "NoteTime": 5329,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2645846
+                    }
+                },
+                {
+                    "NoteTime": 5353,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2646630
+                    }
+                },
+                {
+                    "NoteTime": 5360,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2643574
+                    }
+                },
+                {
+                    "NoteTime": 5371,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2646886
+                    }
+                },
+                {
+                    "NoteTime": 5376,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2646102
+                    }
+                },
+                {
+                    "NoteTime": 5389,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2647142
+                    }
+                },
+                {
+                    "NoteTime": 5413,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2646358
+                    }
+                },
+                {
+                    "NoteTime": 5420,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2643830
+                    }
+                },
+                {
+                    "NoteTime": 5427,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2647398
+                    }
+                },
+                {
+                    "NoteTime": 5433,
+                    "NoteType": 53,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2646614
+                    }
+                },
+                {
+                    "NoteTime": 5446,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2647654
+                    }
+                },
+                {
+                    "NoteTime": 5477,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2644086
+                    }
+                },
+                {
+                    "NoteTime": 5506,
+                    "NoteType": 52,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2644342
+                    }
+                },
+                {
+                    "NoteTime": 5534,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2647910
+                    }
+                },
+                {
+                    "NoteTime": 5562,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2648166
+                    }
+                },
+                {
+                    "NoteTime": 5591,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2648422
+                    }
+                },
+                {
+                    "NoteTime": 5621,
+                    "NoteType": 54,
+                    "LongNoteLength": 0.0,
+                    "EditNote": {
+                        "instanceID": -2648678
+                    }
+                },
+                {
+                    "NoteTime": 5652,
+                    "NoteType": 53,
+                    "LongNoteLength": 21.0,
+                    "EditNote": {
+                        "instanceID": -2625718
+                    }
+                }
+            ]
+        },
+        {
+            "NewNoteList": []
+        },
+        {
+            "NewNoteList": []
+        }
+    ],
+    "ActionList": [
+        {
+            "MouseNoteList": []
+        },
+        {
+            "MouseNoteList": []
+        },
+        {
+            "MouseNoteList": []
+        }
+    ]
+}
