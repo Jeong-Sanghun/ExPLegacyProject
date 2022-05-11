@@ -20,7 +20,7 @@ C#
 
 
 # 홍익대학교 ExP Make팀 2019 홍익대 축제 프로젝트 HongikFighters
-Unity / 2D / Windows / 리듬게임 / **미출시**
+Unity / 2D / Windows / 게임 / **미출시**
 
 ### 개발기간
 2019.03 ~ 2019.05
